@@ -31,7 +31,7 @@ if part == "part1":
 
 if part == "part2":
     # Number of trials for each experiment
-    run_count = 10000
+    run_count = 100000
 
     # p and k are defined in the description
     p_list = [0.7, 0.8, 0.85]
